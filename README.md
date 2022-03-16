@@ -2,9 +2,10 @@
 
 > **I'm a CTF player, love Pwnable and Researcher.**        
 
-[![l1j9m4-0n1](Pwnable.gif)](https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif)    Here are some ideas to get you started:
+[![l1j9m4-0n1](Pwnable.gif)](https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif)    
 
 
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+#### Hacking
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=CTFs&theme=gotham)](https://github.com/l1j9m4-0n1/CTFs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Pwnable&theme=gotham)](https://github.com/l1j9m4-0n1/Pwnable)
