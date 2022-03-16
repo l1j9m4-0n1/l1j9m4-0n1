@@ -2,11 +2,9 @@
 
 > **I'm a CTF player, love Pwnable and Researcher.**        
 
-[![l1j9m4-0n1](Pwnable.gif)](https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif)
+[![l1j9m4-0n1](Pwnable.gif)](https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif)    Here are some ideas to get you started:
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
