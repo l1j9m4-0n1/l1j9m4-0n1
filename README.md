@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there , I am happy that you're here 👋
 
-<!--
-**l1j9m4-0n1/l1j9m4-0n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+> **I'm a CTF player, love Pwnable and Researcher.**
+>  
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
