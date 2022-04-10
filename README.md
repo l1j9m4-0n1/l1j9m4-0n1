@@ -24,14 +24,14 @@
 >  **[ >_@ ]** GitHub Stats
 
 <p align= "left">
-  <img height= "157" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "157" src="https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=react&layout=compact" />
+  <img height= "157" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img height= "157" src="https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham&layout=compact" />
 </p>
 
 > <img src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/icon_keyboard.jpg" width="45px" height = "25px"/> **Hacking**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=CTFs&theme=react)](https://github.com/l1j9m4-0n1/CTFs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Pwnable&theme=react)](https://github.com/l1j9m4-0n1/Pwnable)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=CTFs&theme=gotham)](https://github.com/l1j9m4-0n1/CTFs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Pwnable&theme=gotham)](https://github.com/l1j9m4-0n1/Pwnable)
 
 
 ------
