@@ -8,6 +8,8 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif" style="vertical-align:middle;margin:0px 50px">   
 <p align="left"> <img src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/profile.svg" alt="TranTrongHuy" /> </p>
 
+<hr>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 
+<hr>
 
 > Overview **[ >_@ ]**
 
