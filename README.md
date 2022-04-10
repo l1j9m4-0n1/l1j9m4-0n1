@@ -34,3 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Pwnable&theme=gotham)](https://github.com/l1j9m4-0n1/Pwnable)
 
 
+------
+Discord: l1j9m4#1526
+
+[TranTrongHuy](https://github.com/l1j9m4-0n1)
