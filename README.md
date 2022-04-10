@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 > Overview **[ >_@ ]**
 
 <p align= "left">
-  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham&show_icons=true&include_all_commits=true" />
-  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham&layout=compact" />
+  <img height= "158" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img height= "158" src="https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham&layout=compact" />
 </p>
 
 > **Hacking**
