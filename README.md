@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 > Overview **[ >_@ ]**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align= "left">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=l1j9m4-0n1&theme=gotham&layout=compact" />
+</p>
 
 > **Hacking**
 
