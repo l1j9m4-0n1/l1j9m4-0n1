@@ -12,10 +12,10 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Linux.
-- 🌱 I’m currently learning CTFs.
-- 👯 I’m looking to collaborate on Github.
-- 🤔 I’m looking for help with Pwnable.
+- 🔭 I’m currently working on Linux .
+- 🌱 I’m currently learning CTFs .
+- 👯 I’m looking to collaborate on Github .
+- 🤔 I’m looking for help with Pwnable .
 - 💬 Ask me about $> .
 - ⚡ Fun fact: >_@
  
