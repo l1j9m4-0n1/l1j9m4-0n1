@@ -12,7 +12,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WLM
+- 🔭 I’m currently working on W L M
 - 🌱 I’m currently learning CTFs
 - 👯 I’m looking to collaborate on GITHUB
 - 🤔 I’m looking for help with PWN
