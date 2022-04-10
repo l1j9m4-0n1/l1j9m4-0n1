@@ -21,7 +21,7 @@
  
 <hr>
 
->  **[ >_@ ]** GitHub Stats **[ >_@ ]**
+>  **[ >_@ ]** GitHub Stats
 
 <p align= "left">
   <img height= "157" src="https://github-readme-stats.vercel.app/api?username=l1j9m4-0n1&theme=gotham&show_icons=true&include_all_commits=true" />
