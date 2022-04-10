@@ -1,4 +1,4 @@
-### Hi there , I'm happy that you're here <img src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/hi.gif" width="30px" alt="hi">
+<h1 align="center">Hi there<img height="40" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/hi.gif">, I'm Tran Trong Huy! I'm so glad you're here</h1>
 
 > **I'm a CTF player, love Pwnable and Researcher.**        
 
