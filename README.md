@@ -12,11 +12,11 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on WLM
 - 🌱 I’m currently learning CTFs
 - 👯 I’m looking to collaborate on GITHUB
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with PWN
+- 💬 Ask me about ???
 - ⚡ Fun fact: >_@
  
 <hr>
