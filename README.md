@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning CTFs .
 - 👯 I’m looking to collaborate on Github .
 - 🤔 I’m looking for help with Pwnable .
-- 💬 Ask me about $> .
+- 💬 Ask me about <$> .
 - ⚡ Fun fact: >_@
  
 <hr>
