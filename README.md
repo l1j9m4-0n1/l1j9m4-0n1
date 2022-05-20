@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/profile.svg" alt="TranTrongHuy" /> </p>
 
-<hr>
+<hr> <p align="right"> <img alt="Coding" width="450" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif" style="vertical-align:middle;margin:0px 50px" /> </p> 
 
-### Here are some ideas to get you started:
-
-<p align="right"> <img alt="Coding" width="450" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif" style="vertical-align:middle;margin:0px 50px" /> </p>   
+### Here are some ideas to get you started:  
 
 - 🌱 I’m currently learning CTFs .
 
