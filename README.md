@@ -10,11 +10,15 @@
 
 ### Here are some ideas to get you started:  
 
-- 🌱 I’m currently learning CTFs .
+- 🌁 I’m currently studying in PTIT (Posts and Telecommunications Institute of Technology).
 
-- 🤔 I’m looking for help with Pwnable .
+- 🤔 I’m looking for help with CTFs.
 
-- 💬 Ask me about <$> .
+- 🌱 I’m currently learning Pwnable and Cryptography.
+
+- 💬 Ask me about <$>.
+
+- 📫 How to reach me: **l1j9m4#1526**
 
 - ⚡ Fun fact: >_@
  
