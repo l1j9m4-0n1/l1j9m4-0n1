@@ -18,7 +18,7 @@
 
 - 💬 Ask me about <$>.
 
-- 📫 How to reach me: **trantronghuy0706@gmail.com**
+- 📫 How to reach me: **trantronghuy0706@gmail.com** or Discord: `l1j9m4#1526`
 
 - ⚡ Fun fact: >_@
  
