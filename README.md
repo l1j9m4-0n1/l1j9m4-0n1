@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<img height="40" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/hi.gif">, I'm so glad you're here!!! 😊</h1>
 
-> **I'm a CTF player, love Pwnable and Research.**        
+> **I'm a CTFs player, love Pwnable and Research.**        
 
 <img align="right" alt="Coding" width="900" height="400" src="https://github.com/l1j9m4-0n1/l1j9m4-0n1/blob/main/Pwnable.gif" style="vertical-align:middle;margin:0px 50px">
 
