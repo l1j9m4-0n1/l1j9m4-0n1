@@ -16,11 +16,9 @@
 
 - 🌱 I’m currently learning Pwnable and Cryptography.
 
-- 💬 Ask me about <$>.
-
 - 📫 How to reach me: **trantronghuy0706@gmail.com** or Discord: `l1j9m4#1526`
 
-- ⚡ Fun fact: >_@
+- ⚡ Fun fact: >_$
  
  <h3 align="center">------- >_@ CTFs Pwnable -------</h3>
  
