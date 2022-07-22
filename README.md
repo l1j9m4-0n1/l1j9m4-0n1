@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Pwnable and Cryptography.
 
-- 📫 How to reach me: **trantronghuy0706@gmail.com** or Discord: `l1j9m4#1526`
+- 📫 How to reach me: **trantronghuy0706@gmail.com** or Discord: `Nigma#1526`
 
 - ⚡ Fun fact: >_$
  
@@ -37,6 +37,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Blogs&theme=gotham)](https://github.com/l1j9m4-0n1/Blogs)
 
 ------
-Discord: l1j9m4#1526
+Discord: Nigma#1526
 
 [TranTrongHuy](https://github.com/l1j9m4-0n1)
