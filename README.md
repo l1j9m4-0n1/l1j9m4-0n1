@@ -37,6 +37,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l1j9m4-0n1&repo=Blogs&theme=gotham)](https://github.com/l1j9m4-0n1/Blogs)
 
 ------
-Discord: Nigma#1526
+**Discord:** Nigma#1526
 
 [TranTrongHuy](https://github.com/l1j9m4-0n1)
